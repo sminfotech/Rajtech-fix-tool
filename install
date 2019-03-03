@@ -10,4 +10,4 @@ pkg instalk libcurl
 pip install mps_youtube
 pip install youtube_dl
 cowsay now run with python2
-cowsay python2 stark.py
+cowsay python2 Rajtech.py
