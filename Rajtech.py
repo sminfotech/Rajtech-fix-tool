@@ -44,38 +44,38 @@ loop = True
 
 while loop:
     menu()
-    stark = raw_input("stark > ")
+    Rajtech = raw_input("Rajtech > ")
     
-    if stark == "1":
+    if Rajtech == "1":
     	  os.system("clear")
           achacking() 
-    elif stark == "2":
+    elif Rajtech == "2":
     	  os.system("clear")
           info()
-    elif stark == "3":
+    elif Rajtech == "3":
     	  os.system("clear")
           webhacking()
-    elif stark == "4":
+    elif Rajtech == "4":
     	  os.system("clear")
     	  termux()
-    elif stark == "5":
+    elif Rajtech == "5":
     	  os.system("clear")
           Fix()
-    elif stark == "6":
+    elif Rajtech == "6":
           os.system("chmod +x update")
 	  os.system("./update")
-    elif stark == "7":
+    elif Rajtech == "7":
           About()
-    elif stark == "8":
+    elif Rajtech == "8":
      	 os.system("clear")
          deepstore()
-    elif stark == "9":
+    elif Rajtech == "9":
     	 print (colored("under progress...", 'green'))
 	 timeout(3)
          restartprogram()
-    elif stark == "10":
+    elif Rajtech == "10":
     	sys.exit()
-    elif stark == "0":
+    elif Rajtech == "0":
           restartprogram()
     else:
 		  print  (colored("ERROR: WRONG COMMAND Bhai =.?", 'red'))
