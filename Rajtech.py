@@ -8,9 +8,6 @@ from multiprocessing import Process
 
 def menu():
     
-        
-  
-
 >>CREATED BY: RajTech
 
 >>Subscribe Rajtechhub<<
