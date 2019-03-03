@@ -7,7 +7,7 @@ from multiprocessing import Process
 
 
 def menu():
-    while True:
+    
            print("")
            os.system("clear")
            print('\033[1;36;40m<─────────────── Rajtech tool 2.O ───────────────>')
