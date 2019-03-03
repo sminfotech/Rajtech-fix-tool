@@ -31,7 +31,7 @@ def achacking():
      ==================================================
     """, 'green'))
 
- acha = raw_input("stark > ")
+ acha = raw_input("Rajtech > ")
 
  if acha == "1":
     	Facebookhack()
