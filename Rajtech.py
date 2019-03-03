@@ -8,17 +8,7 @@ from multiprocessing import Process
 
 def menu():
     
-           print("")
-           os.system("clear")
-           print('\033[1;36;40m<─────────────── Rajtech tool 2.O ───────────────>')
-           print('')
-           os.system('date | lolcat')
-           print("\033[1;93m")
-           print(" \033[1;92m  OM => JaiMataDi')")
-           print("\033[1;93m")
-           print("  <───────[ Abhishek Mishra]───────>")
-           print("")
-           try:
+        
   
 
 >>CREATED BY: RajTech
